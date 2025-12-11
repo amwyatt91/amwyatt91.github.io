@@ -5,10 +5,13 @@
 ##### h5 Heading
 ###### h6 Heading
 
-Alternatively, for H1 and H2, an underline-ish style:
 
-Alt-H1
-======
+**This is bold text**
 
-Alt-H2
------
+__This is bold text__
+
+*This is italic text*
+
+_This is italic text_
+
+~~Strikethrough~~
